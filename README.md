@@ -11,3 +11,7 @@
  AWS EC2
  
 ![](prints/aws.png)
+
+EC2
+
+![](prints/ec2.png)
